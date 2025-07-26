@@ -1,4 +1,14 @@
-## 📊 Sales Report
+## 🏢 About the Project – Atliq Hardwares
+
+This project is based on **Atliq Hardwares**, a global tech manufacturer operating across multiple markets and product divisions. The dataset contains **1 million+ rows** of historical sales and financial data for the years 2020 and 2021.
+
+As part of this analysis, I:
+- Cleaned and transformed large datasets using **Power Query**
+- Built structured **data models** using **Power Pivot**
+- Created **interactive dashboards** in **Power BI**
+- Delivered insights that align with business KPIs
+
+📊 Sales Report
 
 **Project Objectives:**
 - Create a [Customer Performance Report](https://github.com/AK5615612/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)
