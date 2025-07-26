@@ -5,7 +5,7 @@ This project is based on **Atliq Hardwares**, a global tech manufacturer operati
 As part of this analysis, I:
 - Cleaned and transformed large datasets using **Power Query**
 - Built structured **data models** using **Power Pivot**
-- Created **interactive dashboards** in **Power BI**
+- Created **interactive dashboards** in **Excel**
 - Delivered insights that align with business KPIs
 
 📊 Sales Report
